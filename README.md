@@ -1,4 +1,4 @@
-# Setting Up Jenkins
+# Setting Up Jenkins on Ubuntu
 
 ## Installing Pre-Requisites
 
