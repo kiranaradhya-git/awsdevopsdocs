@@ -85,6 +85,48 @@ java -version
 Ref
 [Ubuntu Website - Install the Java Runtime Environment](https://ubuntu.com/tutorials/install-jre#2-installing-openjdk-jre)
 
+### Installing Node on Ubuntu
+
+```
+sudo apt update
+```
+
+```
+sudo apt install nodejs
+```
+
+Testing Installation
+
+```
+node -v
+```
+
+[NodeJS](https://nodejs.org/en)
+
+### Installing Python
+
+```
+sudo apt install
+sudo apt upgrade
+```
+
+
+```
+python3 --version
+```
+https://discuss.python.org/t/install-python-3-11-9-on-ubuntu/51093
+
+### How to install ReactJS
+
+```
+sudo apt install npm
+```
+
+```
+sudo npm -g install create-react-app
+```
+  
+
 
 
 
