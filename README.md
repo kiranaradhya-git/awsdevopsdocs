@@ -160,6 +160,23 @@ sudo apt-get install jenkins
 https://www.jenkins.io/doc/book/installing/linux/#debianubuntu
 
 
+### Configure Jenkins
+
+```
+systemctl edit jenkins
+```
+
+Update the Below config 
+
+[Service]
+Environment="JENKINS_PORT=8080
+
+
+### Access Jenkins
+
+http://ec2-184-72-81-35.compute-1.amazonaws.com:8080/
+
+
   
 
 
